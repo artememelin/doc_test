@@ -13,5 +13,5 @@ Documenter.deploydocs(
     target = "build",
     deps = nothing,
     make = nothing,
-    repo = "github.com/artememelin/test_doc.jl.git",
+    repo = "github.com/artememelin/doc_test.jl.git",
 )
