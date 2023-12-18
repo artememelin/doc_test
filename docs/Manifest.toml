@@ -2,7 +2,7 @@
 
 julia_version = "1.9.4"
 manifest_format = "2.0"
-project_hash = "e0c77beb18dc1f6cce661ebd60658c0c1a77390f"
+project_hash = "6f5914654fa023a165de7d81247d7934b39fed82"
 
 [[deps.ANSIColoredPrinters]]
 git-tree-sha1 = "574baf8110975760d391c710b6341da1afa48d8c"
@@ -247,3 +247,10 @@ version = "1.52.0+1"
 deps = ["Artifacts", "Libdl"]
 uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 version = "17.4.0+0"
+
+[[deps.test_doc]]
+git-tree-sha1 = "1c64ffbda64e7282c0eb318eee63321069443fad"
+repo-rev = "main"
+repo-url = "/Users/artememelin/Repos/GitHub/doc_test"
+uuid = "7f40b1cc-a26a-43dd-b556-b22c00fd092a"
+version = "1.0.0-DEV"
