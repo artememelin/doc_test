@@ -1,5 +1,5 @@
-# doc_test.jl
+# test_doc.jl
 
 ```@docs
-doc_test.test_func
+test_doc.test_func
 ```
