@@ -1,12 +1,12 @@
 module test_doc
 
 """
-    test_func()
+    test_func(x)
 
-This is test function
+This is test function `x`
 """
-function test_func()
-    return 1
+function test_func(x)
+    return x
 end
 
 end
